@@ -1,6 +1,7 @@
 # --------- Global Variables -----------
 print("\t\t\t\t******TIC TAC TOE GAME******\n\n")
 # Will hold our game board data
+
 board = ["-", "-", "-",
          "-", "-", "-",
          "-", "-", "-"]
